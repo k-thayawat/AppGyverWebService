@@ -1,0 +1,14 @@
+{
+  "name": "appgyver_ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "keywords": [
+    "AppGyver"
+  ],
+  "author": "Thayawat Thathong",
+  "license": "ISC"
+}
